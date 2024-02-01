@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Remera",
+    "description": "Color Blanco",
+    "code": "001",
+    "price": "14000",
+    "status": true,
+    "stock": "10",
+    "category": "Ropa",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Pantalon",
+    "description": "Color Gris",
+    "code": "002",
+    "price": "24000",
+    "status": true,
+    "stock": "20",
+    "category": "Ropa",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Campera",
+    "description": "Color Negro",
+    "code": "003",
+    "price": "40000",
+    "status": true,
+    "stock": "30",
+    "category": "Ropa",
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "Buzo",
+    "description": "Color Rosa",
+    "code": "004",
+    "price": "19000",
+    "status": true,
+    "stock": "9",
+    "category": "Ropa",
+    "thumbnails": []
+  },
+  {
+    "id": 5,
+    "title": "Musculosa",
+    "description": "Color Negro",
+    "code": "005",
+    "price": "10000",
+    "status": true,
+    "stock": "10",
+    "category": "Ropa",
+    "thumbnails": []
+  },
+  {
+    "id": 6,
+    "title": "Pantalon",
+    "description": "Color Blanco",
+    "code": "006",
+    "price": "25000",
+    "status": true,
+    "stock": "20",
+    "category": "Ropa",
+    "thumbnails": []
+  },
+  {
+    "id": 7,
+    "title": "Chaleco",
+    "description": "Color Marron",
+    "code": "007",
+    "price": "16000",
+    "status": true,
+    "stock": "10",
+    "category": "Ropa",
+    "thumbnails": []
+  },
+  {
+    "id": 8,
+    "title": "Falda",
+    "description": "Color Blanco",
+    "code": "008",
+    "price": "11000",
+    "status": true,
+    "stock": "13",
+    "category": "Ropa",
+    "thumbnails": []
+  },
+  {
+    "id": 9,
+    "title": "Short",
+    "description": "Color Azul",
+    "code": "009",
+    "price": "14000",
+    "status": true,
+    "stock": "33",
+    "category": "Ropa",
+    "thumbnails": []
+  },
+  {
+    "id": 10,
+    "title": "Vestido",
+    "description": "Color Verde",
+    "code": "010",
+    "price": "35000",
+    "status": true,
+    "stock": "11",
+    "category": "Ropa",
+    "thumbnails": []
+  }
+]
